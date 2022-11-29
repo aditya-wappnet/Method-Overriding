@@ -1,6 +1,6 @@
 # Method-Overriding
 
-#Brief details of the project
+# Brief details of the project
 
 Method Overriding is used to override the parent function.
 I have developed a project where the Team leader is asking about Workload then the Senior developer says it's easy but the junior developer says it's hard, here junior developer is in child class so Whatever the junior developer says it will be passed to the team leader as we use the concept of Method Overriding.
